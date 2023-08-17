@@ -15,7 +15,6 @@
     - [Setup](#setup)
     - [Install:](#install)
     - [Start:](#start)
-    - [Tests:](#tests)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -67,14 +66,10 @@ git clone https://github.com/Roland-Ntwali/Hello_rails_backend.git
 
 ### Install:
 
-Run: npm install
+Run: bundle install, rails db:creat, rails db:migrate
 
 ### Start:
-Run: npm start
-
-### Tests:
-
-Run: npm run test
+Run: rails s
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
