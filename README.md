@@ -6,7 +6,7 @@
 
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 \[Rails-React-two-apps\] ](#-rails-react-two-apps-)
-  - [🛠 Link to the Backend ](#-link-to-the-backend-)
+  - [🛠 Link to the Frontend](#-link-to-the-frontend)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -27,9 +27,9 @@
 
 **[Rails-React-two-apps]** is a web application that allows users to fetch a random greeting from Rails API. It's built using Rails, React, Redux.
 
-## 🛠 Link to the Backend <a name="back-end"></a>
+## 🛠 Link to the Frontend<a name="back-end"></a>
 
-- [Link](https://github.com/Roland-Ntwali/Hello-rails-back-end.git)
+- [Link](https://github.com/Roland-Ntwali/Hello_rails_frontend)
 
 ## 🛠 Built With <a name="built-with"></a>
 
