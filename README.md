@@ -66,7 +66,7 @@ git clone https://github.com/Roland-Ntwali/Hello_rails_backend.git
 
 ### Install:
 
-Run: bundle install, rails db:creat, rails db:migrate
+Run: bundle install, rails db:create, rails db:migrate
 
 ### Start:
 Run: rails s
